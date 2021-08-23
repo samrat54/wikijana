@@ -1,0 +1,11 @@
+/*-----iPads, Tablets ZONE4 ----------*/
+@media only screen and (max-width:768px) {
+    .footer-inner shad, #lower-wrapper, #menubottom-container, #credits-wrap {overflow:hidden!important;width:100%!important;}  
+    .footer-col footer-col-1{overflow:hidden!important;width:90%!important;padding:20px}
+    .footer-col footer-col-2{overflow:hidden!important;width:90%!important;padding:20px}
+    .footer-col footer-col-3{overflow:hidden!important;width:90%!important;padding:20px}
+    #credits p{text-align:center!important}
+    }
+    @media only screen and (max-width: 768px) {
+    .HTML3{display:none;}
+    }
